@@ -20,7 +20,7 @@
     "hashtags":["relax","chooling"]
 }
 ```
-##Likes,commants
+## Likes,commants
 1.http method-post  endpoints-api/v1
 ```json
 {
@@ -28,19 +28,20 @@
 "postId":"14895",
 "comment":"lol,great👌"
 }
+```
 
 
-##follow and unfollow
+## follow and unfollow
 
-1.http method :post  Endpoint: /v1/follow
+1.http method :post  Endpoint: api/v1/follow
 ```json
 {
-    "followerId":"12345"
+    "followerId":"12345",
     "followeeId::"12345"
 }
 ```
 
-##reading time 
+## reading time 
 
 1.http method :Get   Endpoint:v1/feed/{userId}
 
