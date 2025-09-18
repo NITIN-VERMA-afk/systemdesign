@@ -8,5 +8,11 @@
 
 ## Leacky Bucket Algorithms
 
-1 .  
-2 .
+##  Fixed Window counter Algorithm
+1 . advantage-its easy to implement and understand 
+2 . disadvantage-allows burst of requests at the edges of the window
+
+## sliding window log algorithm 
+
+## slinding window counter algorithm
+
